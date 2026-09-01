@@ -214,7 +214,7 @@ section{ padding:74px 28px; text-align:center; position:relative; }
 /* ---------- Hero ---------- */
 #hero{ padding-top:64px; background:var(--cream-dark); }
 #hero .save{ font-family:var(--font-label); font-size:13px; letter-spacing:3px; text-transform:uppercase; color:var(--red); }
-#hero .couple{ font-family:var(--font-script); font-size:36px; margin:14px 0; color:var(--red-deep); }
+#hero .couple{ font-family:var(--font-script); font-size:30px; margin:14px 0; color:var(--red-deep); }
 #hero .families{ display:flex; justify-content:space-between; gap:16px; margin-top:34px; text-align:left; font-size:16px; }
 #hero .fam{ flex:1; }
 #hero .fam h3{ font-family:var(--font-label); font-size:12px; letter-spacing:2px; color:var(--gold-deep); text-transform:uppercase; margin-bottom:10px; font-weight:500;}
